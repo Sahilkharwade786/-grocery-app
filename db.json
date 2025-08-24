@@ -1,0 +1,243 @@
+{
+  "Admin": [
+    {
+      "Mobile_no": "8605374083",
+      "Password": "admin@123",
+      "id": "d0a7"
+    }
+  ],
+  "Users": [
+    {
+      "id": "77c6",
+      "Mobile_no": "9373384550",
+      "Password": "user@123",
+      "Email": "kharwadesahil@gmail.com",
+      "Name": "Sahil Kharwade"
+    },
+    {
+      "id": "2db0",
+      "Name": "Kartik Kharwade",
+      "Email": "kartik@gmail.com",
+      "Mobile_no": "8999970359",
+      "Password": "kartik@123"
+    },
+    {
+      "id": "a98f",
+      "Address_Line": "a",
+      "Flat": "a",
+      "Street_Name": "a",
+      "Postcode": "a"
+    },
+    {
+      "id": "6870",
+      "Address_Line": "a",
+      "Flat": "a",
+      "Street_Name": "a",
+      "Postcode": "a"
+    },
+    {
+      "id": "4977",
+      "Address_Line": "a",
+      "Flat": "a",
+      "Street_Name": "a",
+      "Postcode": "a"
+    }
+  ],
+  "basket": [
+    {
+      "Item_Name": "Vegetables",
+      "Item_Img": "/vegetables_basket.jpg",
+      "id": "9a2b"
+    },
+    {
+      "Item_Name": "Fresh fruits",
+      "Item_Img": "/fruits_basket.webp",
+      "id": "039f"
+    },
+    {
+      "Item_Name": "Dairy Products",
+      "Item_Img": "/Dairy-basket.jpg",
+      "id": "8bb2"
+    },
+    {
+      "Item_Name": "Fresh Meat",
+      "Item_Img": "/meat_basket.jpg",
+      "id": "3356"
+    }
+  ],
+  "Vegetables": [
+    {
+      "Title": "Cabbage",
+      "Price": "20",
+      "Image": "/Cabbage.jpg",
+      "Category": "Vegetables",
+      "id": "2"
+    },
+    {
+      "id": "3",
+      "Title": "Coriander",
+      "Price": "15",
+      "Image": "/Coriander.webp",
+      "Category": "Vegetables"
+    },
+    {
+      "id": "4",
+      "Title": "Onion",
+      "Price": "15",
+      "Image": "/Onion.jpg",
+      "Category": "Vegetables"
+    },
+    {
+      "id": "5",
+      "Title": "Potato",
+      "Price": "15",
+      "Image": "/Potato.jpg",
+      "Category": "Vegetables"
+    },
+    {
+      "id": "6",
+      "Title": "Tomato",
+      "Price": "15",
+      "Image": "/Tomato.jpg",
+      "Category": "Vegetables"
+    },
+    {
+      "id": "146c",
+      "Title": "Chilli",
+      "Price": "10",
+      "Image": "/Chilli.jpg",
+      "Category": "Vegetables"
+    }
+  ],
+  "Fresh fruits": [
+    {
+      "id": "7",
+      "Title": "Apple",
+      "Price": "15",
+      "Image": "/Apple.jpg",
+      "Category": "Fresh fruits"
+    },
+    {
+      "id": "8",
+      "Title": "Banana",
+      "Price": "15",
+      "Image": "/Banana.jpg",
+      "Category": "Fresh fruits"
+    },
+    {
+      "id": "9",
+      "Title": "Jamun",
+      "Price": "15",
+      "Image": "/Jamun.jpg",
+      "Category": "Fresh fruits"
+    },
+    {
+      "id": "10",
+      "Title": "Kivi",
+      "Price": "15",
+      "Image": "/Kivi.jpg",
+      "Category": "Fresh fruits"
+    },
+    {
+      "id": "11",
+      "Title": "Lemon",
+      "Price": "15",
+      "Image": "/Lemon.jpg",
+      "Category": "Fresh fruits"
+    },
+    {
+      "id": "12",
+      "Title": "Mango",
+      "Price": "15",
+      "Image": "/Mango.jpg",
+      "Category": "Fresh fruits"
+    }
+  ],
+  "Dairy Products": [
+    {
+      "Title": "Butter_Milk",
+      "Price": "10",
+      "Image": "/Butter_Milk.jpg",
+      "id": "14"
+    },
+    {
+      "id": "15",
+      "Title": "Butter",
+      "Price": "15",
+      "Image": "/Butter.jpg",
+      "Category": "Dairy Products"
+    },
+    {
+      "id": "16",
+      "Title": "Cheese",
+      "Price": "15",
+      "Image": "/Cheese.jpg",
+      "Category": "Dairy Products"
+    },
+    {
+      "id": "17",
+      "Title": "Masti_Dahi",
+      "Price": "15",
+      "Image": "/Masti_Dahi.jpg",
+      "Category": "Dairy Products"
+    },
+    {
+      "id": "18",
+      "Title": "Milk_Shake",
+      "Price": "15",
+      "Image": "/Milk_Shake.jpg",
+      "Category": "Dairy Products"
+    },
+    {
+      "id": "19",
+      "Title": "Milk",
+      "Price": "15",
+      "Image": "/Milk.jpg",
+      "Category": "Dairy Products"
+    },
+    {
+      "id": "20",
+      "Title": "Paneer",
+      "Price": "15",
+      "Image": "/Paneer.jpg",
+      "Category": "Dairy Products"
+    }
+  ],
+  "Fresh Meat": [
+    {
+      "id": "21",
+      "Title": "Chicken_Mix_Cut",
+      "Price": "15",
+      "Image": "/Chicken_Mix_Cut.webp",
+      "Category": "Fresh Meat"
+    },
+    {
+      "id": "22",
+      "Title": "Chicken",
+      "Price": "15",
+      "Image": "/Chicken.webp",
+      "Category": "Fresh Meat"
+    },
+    {
+      "id": "23",
+      "Title": "Eggs",
+      "Price": "15",
+      "Image": "/Eggs.webp",
+      "Category": "Fresh Meat"
+    },
+    {
+      "id": "24",
+      "Title": "Fesh",
+      "Price": "15",
+      "Image": "/Fesh.webp",
+      "Category": "Fresh Meat"
+    },
+    {
+      "id": "25",
+      "Title": "Goat",
+      "Price": "15",
+      "Image": "/Goat.webp",
+      "Category": "Fresh Meat"
+    }
+  ]
+}
